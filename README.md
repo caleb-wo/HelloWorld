@@ -1,23 +1,13 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is a simple "Hello, World!" program. It's intended to demonstrate how IntelliJ IDEA, GitHub, and Maven can work together in a basic Java application.
 
-{Provide a description of your software}
+This was built to show my competency with the Maven build process while also utilizing tooling provided by IntelliJ IDEA.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/AeWxiSPkl_w)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used IntelliJ IDEA to build this project. It is a Maven built java application.
 
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+As mentioned, I used java. In the video, I also demonstrate how to run it from the command line. 
